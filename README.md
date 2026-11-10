@@ -4,8 +4,8 @@
 >
 > Get the paid version here:
 >
-> - Paid version on Agensi, $15: https://www.agensi.io/skills/aeo-checklist
-> - Paid version on PromptBase, $14.99: https://promptbase.com/skill/aeo-checklist
+> - Paid version on Agensi, $10: https://www.agensi.io/skills/aeo-checklist
+> - Paid version on PromptBase, $9.99: https://promptbase.com/skill/aeo-checklist
 
 ---
 
